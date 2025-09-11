@@ -1,7 +1,7 @@
 # beecrowd-python
 # `nettoluis/beecrowd-python`
 
-> Minhas resoluções de problemas do beecrowd, implementadas em Python.
+> Minhas resoluções de problemas do Beecrowd, implementadas em Python.
 
 [![Status](https://img.shields.io/badge/status-ativo-success.svg)]()
 [![Linguagem](https://img.shields.io/badge/linguagem-Python-blue.svg)]()
@@ -11,8 +11,6 @@
 ## 💻 Sobre o Repositório
 
 Este repositório serve como um portfólio e diário de aprendizado das minhas jornadas em programação competitiva, focando nos problemas da plataforma **beecrowd**. Aqui, você encontrará minhas soluções para diversos problemas, todas escritas em **Python**.
-
-A organização segue a estrutura de pastas por número de round (`/round_xxx`) ou por número de problema (`/problema_xxxx`), facilitando a navegação e a busca por soluções específicas.
 
 ## 🚀 Objetivo
 
@@ -54,6 +52,6 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ## 📧 Contato
 
 * **Nome**: Luis Netto
-* **Perfil do beecrowd**: [`nettoluis`](https://beecrowd.com/profile/nettoluis)
+* **Perfil do beecrowd**: [`nettoluis`](https://judge.beecrowd.com/pt/profile/1090223)
 * **GitHub**: [`nettoluis`](https://github.com/nettoluis)
 * **LinkedIn**: [`nettoluis`](https://linkedin.com/in/nettoluis)
